@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchristianwengert%2Fcalib_toolbox_addon.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchristianwengert%2Fcalib_toolbox_addon?ref=badge_shield)
+
 Paper: Fully Automatic Endoscope Calibration for Intraoperative Use
 ===
 Christian Wengert, Mireille Reeff, Philippe C. Cattin, Gabor Székely
@@ -43,3 +45,7 @@ Entry points are:
  
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchristianwengert%2Fcalib_toolbox_addon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchristianwengert%2Fcalib_toolbox_addon?ref=badge_large)
